@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin-top: auto;
+    background-color: greenyellow;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    max-width: 70%;
+    height: auto;
+    margin: 0 auto;
+}
+
+h3{
+    text-align: center;
+}
